@@ -1,0 +1,26 @@
+{
+  "name": "toothless",
+  "version": "1.0.0",
+  "description": "chatbot using microsoft bot framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Kaushik27/toothless-chatbot.git"
+  },
+  "keywords": [
+    "toothless"
+  ],
+  "author": "knight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaushik27/toothless-chatbot/issues"
+  },
+  "homepage": "https://github.com/Kaushik27/toothless-chatbot#readme",
+  "dependencies": {
+    "botbuilder": "^3.15.0",
+    "restify": "^7.2.1"
+  }
+}
